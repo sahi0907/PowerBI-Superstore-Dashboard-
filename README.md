@@ -1,0 +1,1 @@
+This is an interactive Sales Dashboard built using Power BI to provide actionable insights for sales performance. The dashboard allows users to visualize sales trends, monitor key metrics, and make data-driven decisions for business growth.
